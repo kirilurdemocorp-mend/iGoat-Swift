@@ -6,7 +6,7 @@ target 'iGoat-Swift' do
   use_frameworks!
 
   # Pods for iGoat-Swift
-  pod 'RealmSwift', '10.7.6'
+  pod 'RealmSwift', '10.54.5'
 #  pod 'CouchbaseLite-Swift', '3.0.0'
 #  pod 'CouchbaseLite', '2.5.0'
 
